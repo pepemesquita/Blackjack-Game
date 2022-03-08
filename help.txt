@@ -1,0 +1,12 @@
+
+No jogo Blackjack você deve atingir um número próximo de 21 ou chegar a 21, para vencer o jogo.
+
+O valor das cartas é:
+
+Às: Vale 1 ou 11 (O valor do Às você decide!)
+
+2-10: Essas cartas possuem o mesmo valor que apresentam em sua face.
+
+Rei, rainha e valete: Possuem valor 11, 12 e 13.
+
+E os naipes são: C = Copas, P = Paus, E = Espadas e O = Ouro
